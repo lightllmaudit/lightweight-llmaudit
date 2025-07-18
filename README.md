@@ -4,7 +4,7 @@ This repository contains all the code, data, and results for our paper for detec
 
 ## Checkpoint Models
 
-Our fine-tuned models and the specific versions of the baseline models used in the paper are available for download. This allows for direct use in inference without re-training.
+Our fine-tuned models and the specific versions of the baseline models used in the paper are available for [download](https://drive.google.com/drive/folders/1dCLwERMNR27R-LzigfCHLkkuaxsNRoSc?usp=drive_link). This allows for direct use in inference without re-training.
 
 ## Repository Structure
 
